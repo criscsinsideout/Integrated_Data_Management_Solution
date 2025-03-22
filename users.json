@@ -1,0 +1,34 @@
+[
+  {
+    "userID": "U001",
+    "name": "Cristianne Thoseby",
+    "email": "cristianne@holmegrange.org",
+    "role": "IT_Admin",
+    "permissions": ["view_logs", "manage_users", "monitor_network"],
+    "assignedAssets": ["A001", "A005"]
+  },
+  {
+    "userID": "U002",
+    "name": "Mark Davies",
+    "email": "mark.davies@holmegrange.org",
+    "role": "Facilities_Manager",
+    "permissions": ["schedule_maintenance", "track_assets"],
+    "assignedAssets": ["A002", "A006"]
+  },
+  {
+    "userID": "U003",
+    "name": "Lisa Brown",
+    "email": "lisa.brown@holmegrange.org",
+    "role": "Teacher",
+    "permissions": ["access_classroom_wifi"],
+    "assignedAssets": []
+  },
+  {
+    "userID": "U004",
+    "name": "Anna Smith",
+    "email": "anna.smith@holmegrange.org",
+    "role": "Guest",
+    "permissions": ["access_guest_wifi"],
+    "assignedAssets": []
+  }
+]

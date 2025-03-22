@@ -1,0 +1,47 @@
+[
+  {
+    "logID": "L001",
+    "timestamp": "2025-03-21T09:15:00Z",
+    "sourceIP": "192.168.1.101",
+    "destination": "internet",
+    "segment": "Academic",
+    "trafficVolumeMB": 150,
+    "threatLevel": 2
+  },
+  {
+    "logID": "L002",
+    "timestamp": "2025-03-21T09:20:00Z",
+    "sourceIP": "192.168.2.14",
+    "destination": "intranet",
+    "segment": "Admin",
+    "trafficVolumeMB": 300,
+    "threatLevel": 1
+  },
+  {
+    "logID": "L003",
+    "timestamp": "2025-03-21T09:22:15Z",
+    "sourceIP": "192.168.3.55",
+    "destination": "guest_wifi",
+    "segment": "Guest",
+    "trafficVolumeMB": 25,
+    "threatLevel": 0
+  },
+  {
+    "logID": "L004",
+    "timestamp": "2025-03-21T09:25:00Z",
+    "sourceIP": "192.168.1.101",
+    "destination": "internet",
+    "segment": "Academic",
+    "trafficVolumeMB": 500,
+    "threatLevel": 7
+  },
+  {
+    "logID": "L005",
+    "timestamp": "2025-03-21T09:27:30Z",
+    "sourceIP": "10.0.0.88",
+    "destination": "internet",
+    "segment": "Admin",
+    "trafficVolumeMB": 750,
+    "threatLevel": 9
+  }
+]

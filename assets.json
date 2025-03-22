@@ -1,0 +1,50 @@
+[
+  {
+    "assetID": "A001",
+    "name": "Firewall Appliance",
+    "category": "Digital",
+    "location": "Server Room",
+    "condition": "Operational",
+    "assignedTo": "U001"
+  },
+  {
+    "assetID": "A002",
+    "name": "Projector - Hall A",
+    "category": "Equipment",
+    "location": "Main Hall",
+    "condition": "Good",
+    "assignedTo": "U002"
+  },
+  {
+    "assetID": "A003",
+    "name": "Laptop - Dell XPS",
+    "category": "Digital",
+    "location": "IT Office",
+    "condition": "Operational",
+    "assignedTo": "U003"
+  },
+  {
+    "assetID": "A004",
+    "name": "Access Card Reader",
+    "category": "Equipment",
+    "location": "Reception",
+    "condition": "Needs Repair",
+    "assignedTo": null
+  },
+  {
+    "assetID": "A005",
+    "name": "Wi-Fi Router - Staff Wing",
+    "category": "Digital",
+    "location": "Admin Block",
+    "condition": "Operational",
+    "assignedTo": "U001"
+  },
+  {
+    "assetID": "A006",
+    "name": "Generator",
+    "category": "Machine",
+    "location": "Utility Shed",
+    "condition": "Operational",
+    "assignedTo": "U002"
+  }
+]

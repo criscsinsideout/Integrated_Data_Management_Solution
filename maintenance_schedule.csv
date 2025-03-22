@@ -1,0 +1,4 @@
+eventID,assetID,scheduledDate,type,status,assignedTo
+M001,A002,2025-04-01,Preventive,Pending,U002
+M002,A006,2025-04-03,Inspection,Confirmed,U002
+M003,A004,2025-03-25,Repair,Pending,

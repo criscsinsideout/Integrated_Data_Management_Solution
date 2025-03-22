@@ -1,0 +1,7 @@
+assetID,name,category,location,condition,assignedTo
+A001,Firewall Appliance,Digital,Server Room,Operational,U001
+A002,Projector - Hall A,Equipment,Main Hall,Good,U002
+A003,Laptop - Dell XPS,Digital,IT Office,Operational,U003
+A004,Access Card Reader,Equipment,Reception,Needs Repair,
+A005,Wi-Fi Router - Staff Wing,Digital,Admin Block,Operational,U001
+A006,Generator,Machine,Utility Shed,Operational,U002

@@ -1,0 +1,6 @@
+logID,timestamp,sourceIP,destination,segment,trafficVolumeMB,threatLevel
+L001,2025-03-21T09:15:00,192.168.1.101,internet,Academic,150,2
+L002,2025-03-21T09:20:00,192.168.2.14,intranet,Admin,300,1
+L003,2025-03-21T09:22:15,192.168.3.55,guest_wifi,Guest,25,0
+L004,2025-03-21T09:25:00,192.168.1.101,internet,Academic,500,7
+L005,2025-03-21T09:27:30,10.0.0.88,internet,Admin,750,9

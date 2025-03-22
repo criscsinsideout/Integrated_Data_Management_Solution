@@ -1,0 +1,30 @@
+[
+  {
+    "siteID": "S001",
+    "siteName": "Main Academic Block",
+    "type": "Academic",
+    "address": "Holme Grange School, Wokingham",
+    "status": "Active"
+  },
+  {
+    "siteID": "S002",
+    "siteName": "Admin Block",
+    "type": "Administrative",
+    "address": "Holme Grange School, Wokingham",
+    "status": "Active"
+  },
+  {
+    "siteID": "S003",
+    "siteName": "Sports Pavilion",
+    "type": "Sports",
+    "address": "Holme Grange School, Wokingham",
+    "status": "Under Maintenance"
+  },
+  {
+    "siteID": "S004",
+    "siteName": "Reception",
+    "type": "Administrative",
+    "address": "Holme Grange School, Wokingham",
+    "status": "Active"
+  }
+]

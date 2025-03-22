@@ -1,0 +1,5 @@
+userID,name,email,role,permissions,assignedAssets
+U001,Cristianne Thoseby,cristianne@holmegrange.org,IT_Admin,["view_logs","manage_users","monitor_network"],["A001","A005"]
+U002,Mark Davies,mark.davies@holmegrange.org,Facilities_Manager,["schedule_maintenance","track_assets"],["A002","A006"]
+U003,Lisa Brown,lisa.brown@holmegrange.org,Teacher,["access_classroom_wifi"],[]
+U004,Anna Smith,anna.smith@holmegrange.org,Guest,["access_guest_wifi"],[]

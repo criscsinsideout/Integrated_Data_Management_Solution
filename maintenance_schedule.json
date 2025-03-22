@@ -1,0 +1,26 @@
+[
+  {
+    "eventID": "M001",
+    "assetID": "A002",
+    "scheduledDate": "2025-04-01",
+    "type": "Preventive",
+    "status": "Pending",
+    "assignedTo": "U002"
+  },
+  {
+    "eventID": "M002",
+    "assetID": "A006",
+    "scheduledDate": "2025-04-03",
+    "type": "Inspection",
+    "status": "Confirmed",
+    "assignedTo": "U002"
+  },
+  {
+    "eventID": "M003",
+    "assetID": "A004",
+    "scheduledDate": "2025-03-25",
+    "type": "Repair",
+    "status": "Pending",
+    "assignedTo": null
+  }
+]
